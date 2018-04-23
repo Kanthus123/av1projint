@@ -1,0 +1,10 @@
+2018-04-18 20:35:22.706 -03 [5118] LOG:  could not bind IPv4 address "127.0.0.1": Endereço já em uso
+2018-04-18 20:35:22.706 -03 [5118] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-04-18 20:35:22.706 -03 [5118] WARNING:  could not create listen socket for "localhost"
+2018-04-18 20:35:22.706 -03 [5118] FATAL:  could not create any TCP/IP sockets
+2018-04-18 20:35:22.706 -03 [5118] LOG:  database system is shut down
+2018-04-18 21:23:29.317 -03 [15400] LOG:  could not bind IPv4 address "127.0.0.1": Endereço já em uso
+2018-04-18 21:23:29.317 -03 [15400] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2018-04-18 21:23:29.325 -03 [15400] WARNING:  could not create listen socket for "localhost"
+2018-04-18 21:23:29.325 -03 [15400] FATAL:  could not create any TCP/IP sockets
+2018-04-18 21:23:29.325 -03 [15400] LOG:  database system is shut down
